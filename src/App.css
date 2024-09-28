@@ -1,0 +1,63 @@
+#base{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+background-color: white;
+height: 100vh;
+}
+
+#box{
+  margin-top: 10vh; 
+  width:30%;
+  height: 70vh;
+  border: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  color: black;
+}
+
+
+#base2{
+  display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+background-color: white;
+height: 100vh;
+}
+
+#box2{
+  margin-top: 10vh; 
+  width:30%;
+  height: 70vh;
+  border: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  color: black;
+}
+
+
+ #Qsn{
+
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+
+
+.btn{
+  width:40%;
+  margin: 20px;
+}
+
+
